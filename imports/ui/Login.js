@@ -42,7 +42,7 @@ export default class Login extends Component {
                         <input type="password" ref="password" name="password" placeholder="Password"/>
                         <button className="button">Login</button>
                     </form>
-                    <Link to="/signup">Have an Account?</Link>
+                    <Link to="/signup">Need an Account?</Link>
                 </div>
             </div>
         );
